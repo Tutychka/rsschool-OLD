@@ -4,7 +4,7 @@ Nina Vaizberg
 
 I am happy to learn an interesting and modern profession
 
-Online courses HTML,CSS
+Online courses HTML,CSS,JS
 
 Code examples (LATEST)
 
